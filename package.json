@@ -1,6 +1,6 @@
 {
   "name": "subnet-calculator-mcp",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A Cloudflare Workers-hosted MCP server that calculates IPv4 subnet information.",
   "type": "module",
   "mcpName": "io.github.zekerutledge/subnet-calculator-mcp",

@@ -5,7 +5,7 @@ Subnet Calculator MCP is a Cloudflare Workers-hosted Model Context Protocol serv
 ## Public endpoint
 
 ```text
-https://subnet-calculator-mcp.zeke-rutledge.workers.dev/mcp
+https://subnet-calculator.zekedoesai.com/mcp
 ```
 
 Transport: **Streamable HTTP**
@@ -53,7 +53,7 @@ Returns:
 {
   "mcpServers": {
     "subnet-calculator": {
-      "url": "https://subnet-calculator-mcp.zeke-rutledge.workers.dev/mcp"
+      "url": "https://subnet-calculator.zekedoesai.com/mcp"
     }
   }
 }
